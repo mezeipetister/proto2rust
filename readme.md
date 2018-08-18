@@ -30,3 +30,5 @@ cargo build --release
 ```
 
 You can find the built app inside the `target/release/` folder
+
+Huge thank you for `protoc-rust` crate: <https://github.com/stepancheg/rust-protobuf/tree/master/protoc-rust/>
