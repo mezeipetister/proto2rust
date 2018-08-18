@@ -2,7 +2,7 @@
 
 ## Usage
 
-``` sh
+```console
 ./proto2rust `input proto file` `output dir`
 ```
 
@@ -14,7 +14,7 @@
 4. Run the following command from shell
 
 ```console
-./proto2rust `demo.proto` `compiled_code/`
+./proto2rust demo.proto compiled_code/
 ```
 
 The code above will read the `demo.proto` file, compile it into rust library,
