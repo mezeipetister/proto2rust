@@ -13,7 +13,7 @@
 3. Copy proto2rust next to the .proto file, inside the `example` folder
 4. Run the following command from shell
 
-``` sh
+``` Shell
 ./proto2rust `demo.proto` `compiled_code/`
 ```
 
@@ -25,7 +25,7 @@ create the `compiled_code` folder, and paste the rust code there.
 
 Run the following command:
 
-```sh
+```Shell
 cargo build --release
 ```
 
