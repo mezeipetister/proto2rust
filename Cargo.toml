@@ -1,0 +1,7 @@
+[package]
+name = "proto2rust"
+version = "0.1.0"
+authors = ["Peter Mezei <mezeipetister@gmail.com>"]
+
+[dependencies]
+protoc-rust = "2.0"
